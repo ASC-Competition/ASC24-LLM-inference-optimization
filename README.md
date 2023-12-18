@@ -32,4 +32,4 @@ The parameter `--num-samples` is only used for test. The participants should tes
 CUDA_VISIBLE_DEVICES=0 python baseline.py --dataset /your_data_path/scrambled_sampled_dataset.json --model /your_model_path/hf_model_weights --num-samples=10
 ```
 
-Besides, the model weight of LLaMA2-70B can be downloaded from: https://huggingface.co/meta-llama/Llama-2-70b.
+Besides, the model weight of LLaMA2-70B can be downloaded from: https://huggingface.co/meta-llama/Llama-2-70b or https://huggingface.co/meta-llama/Llama-2-70b-hf.
