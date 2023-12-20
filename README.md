@@ -33,3 +33,6 @@ CUDA_VISIBLE_DEVICES=0 python baseline.py --dataset /your_data_path/scrambled_sa
 ```
 
 Besides, the model weight of LLaMA2-70B can be downloaded from: https://huggingface.co/meta-llama/Llama-2-70b or https://huggingface.co/meta-llama/Llama-2-70b-hf.
+
+## Contact
+email info@asc-events.org
